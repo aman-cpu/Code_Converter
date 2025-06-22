@@ -32,14 +32,20 @@ code_converter/
 
 ## Setup Instructions
 
-### 1. Create a Python virtual environment
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/aman-cpu/Code_Converter
+```
+
+### 2. Create a Python virtual environment
 
 ```bash
 python -m venv venv
 cd venv
 ```
 
-### 2. Activate the virtual environment
+### 3. Activate the virtual environment
 
 - **Windows:**
   ```bash
@@ -50,7 +56,7 @@ cd venv
   source venv/bin/activate
   ```
 
-### 3. Install dependencies
+### 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -58,7 +64,7 @@ pip install -r requirements.txt
 
 ---
 
-## 4. How to Run
+## 5. How to Run
 
 Start the Streamlit app:
 
