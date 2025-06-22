@@ -35,7 +35,7 @@ code_converter/
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/aman-cpu/Code_Converter](https://github.com/aman-cpu/Code_Converter.git)
+git clone https://github.com/aman-cpu/Code_Converter.git
 ```
 
 ### 2. Create a Python virtual environment
